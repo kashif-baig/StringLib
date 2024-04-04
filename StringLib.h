@@ -34,7 +34,7 @@ public:
     // Returns true if string ends with suffix, false otherwise.
     bool endsWith(const char *suffix) const;
 
-    // Returns true if string starts with prexif, false otherwise.
+    // Returns true if string starts with prefix, false otherwise.
     bool startsWith(const char *prefix) const;
     
     // Returns true if there is capacity for writing more chars to the string buffer, false otherwise.
